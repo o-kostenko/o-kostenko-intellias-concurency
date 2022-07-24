@@ -1,0 +1,1 @@
+# o-kostenko-intellias-concurency
